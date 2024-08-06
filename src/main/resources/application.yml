@@ -1,0 +1,22 @@
+server:
+  port: 5858
+  servlet:
+    context-path: /start
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mybatis
+    username: root
+    password: root
+
+email:
+  user: majiaju
+  code: 54188
+  host: com.lamb
+  auth: true
+
+hobbies:
+  - hah
+  - haha
+  - haha1
+
